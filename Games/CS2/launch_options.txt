@@ -1,0 +1,1 @@
+Steam: +exec autoexec.cfg -nojoy -novid -high -freq 240 +cl_forcepreload 1 -threads 13 +violence_hblood 0  +fps_max 0 +mat_queue_mode 2 +engine_low_latency_sleep_after_client_tick true -allow_third_party_software

@@ -24,8 +24,9 @@ dotfiles/
 ├── linux/
 ├── windows/
 ├── macos/
-├── games/
-│   └── apex-legends/
+├── Games/
+│   ├── Apex Legends/
+│   └── CS2/
 ├── scripts/
 └── README.md
 
